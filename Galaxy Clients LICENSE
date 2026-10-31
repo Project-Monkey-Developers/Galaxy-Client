@@ -1,0 +1,24 @@
+# Galaxy Client License
+#Copyright (c) 2026 by Galaxy Client Developers. All rights reserved.
+By downloading, accessing, or using the "Galaxy Client" software (including its source code, binaries, and related documentation), you agree to be bound by the terms and conditions of this License Agreement. If you do not agree to these terms, do not use, download, or distribute this software.
+
+#1. Ownership and Intellectual Property
+
+The Galaxy Client software, its original source code, assets, name, branding, and all intellectual property rights therein are and remain the exclusive property of the original creators ("Galaxy Client Developers").
+
+#2. Source Code Access and Modification
+
+You are permitted to download and view the source code of Galaxy Client for personal, educational, or private use. You are authorized to modify, alter, or adapt the source code to create a derivative work, subject to the restrictions in Section 3.
+
+#3. Distribution Restrictions
+
+• No Unaltered Redistribution: You may not copy, redistribute, republish, or reupload the Galaxy Client software or its source code in its original, unmodified, or substantially identical form.
+• No Plagiarism / False Claim of Ownership: You absolutely cannot republish Galaxy Client, or any derivative work made from it, under the name "Galaxy Client." You may not claim ownership of the original software, branding, or code.
+• Requirements for Derivative Works: If you modify the source code and wish to redistribute or upload your version, you must comply with all of the following conditions:
+	• The software must be substantially and materially changed from the original Galaxy Client code.
+	• You must completely change the branding, including the name, logos, and visual assets, so it is clearly distinguishable from Galaxy Client.
+	• You must include prominent notices stating that your work is a modified derivative based on Galaxy Client and give appropriate credit to the original creators, without implying that the original creators endorse your version.
+
+#4. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
